@@ -1,6 +1,5 @@
 /* ArcFlash.java
 
-Working Version 1.1.0
 Author: Erick Schimnowski
 
  */
